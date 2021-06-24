@@ -29,5 +29,5 @@ $ make lint
 
 ## Copyright and license
 
-Copyright © 2018 MEDIGO GmbH. This project is licensed under the MIT License. See LICENSE for the full license text.
+Copyright © 2021 MEDIGO GmbH. This project is licensed under the MIT License. See LICENSE for the full license text.
 
